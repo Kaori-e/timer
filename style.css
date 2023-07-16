@@ -1,0 +1,64 @@
+.body1{
+    background: #345534;
+}
+
+.decoration1{
+    background-color: #4b8a3b;
+    border-radius: 20rem;
+    margin-left: 3rem;
+    margin-right: 73rem;
+    margin-top: 3rem;
+}
+
+.decoration2{
+    background-color: #4b8a3b;
+    border-radius: 20rem;
+    margin-left: 73rem;
+    margin-right: 3rem;
+}
+
+.div1{
+    margin-top: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 33rem;
+    padding-left: 2rem;
+    margin-right: 33rem;
+    padding-right: 2rem;
+    background-color: #ffff;
+    border-radius: 20rem;
+}
+
+.relogio{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pausado{
+    color: red;
+}
+
+p{
+    text-align: center;
+}
+
+button{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
